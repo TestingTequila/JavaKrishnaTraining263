@@ -1,0 +1,16 @@
+1. How to print anything in Java
+   sout + enter => System.out.println(write whatever you want to print here);
+
+2. How to comment anything in Java  //
+    a) you can write explanation about the code you have written
+    b) To not execute some piece of your code
+
+3. Variables : Variables are like jara/boxes/containers that can hold/store something
+
+        //How to create variables
+
+        //1. When we know the exact value that we want to store
+              //dataType nameOfVariable =value;
+
+        //2. When we don't know the exact value that we want to store
+              //dataType nameOfVariable;
