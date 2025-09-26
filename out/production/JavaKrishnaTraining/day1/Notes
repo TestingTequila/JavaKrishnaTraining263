@@ -5,7 +5,7 @@
     a) you can write explanation about the code you have written
     b) To not execute some piece of your code
 
-3. Variables : Variables are like jara/boxes/containers that can hold/store something
+3. Variables : Variables are like jars/boxes/containers that can hold/store something
 
         //How to create variables
 
@@ -14,3 +14,11 @@
 
         //2. When we don't know the exact value that we want to store
               //dataType nameOfVariable;
+4. Data Types: Primitive Data Types [we know advance how much memory it will consume]
+    non-decimal number : byte(1)/short(2)/int(4)/long(8)
+    decimal number     : float(4)/double(8)
+    character          : char(2)
+    boolean            : boolean(~1 bit)
+    1 byte = 8 bits
+
+    Non-Primitive Data Types [we don't know advance how much memory it will consume]

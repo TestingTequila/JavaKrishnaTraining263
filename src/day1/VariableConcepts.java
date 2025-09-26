@@ -17,6 +17,10 @@ public class VariableConcepts {
         System.out.println(x);//10
         System.out.println(s);// I Love Java
         System.out.println(b);//true
+        System.out.println(y);
+        System.out.println(c);
+        System.out.println(myName);
+        System.out.println(z);
     }
 }
 
