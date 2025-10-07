@@ -1,0 +1,53 @@
+Statements: Helps us in making decisions
+if else statement    [We use this when we have to make single decision]
+if(defineCondition)
+{
+    code here will execute only if condition is true
+}
+else
+{
+    code here will execute only if condition is false
+}
+
+
+
+
+if else if statement [We use this when we have to make multiple decisions]
+
+if(defineCondition1)
+{
+    code here will execute only if condition1 is true
+}
+else if(defineCondition2)
+{
+   code here will execute only if condition2 is true
+}
+else if(defineCondition3)
+{
+   code here will execute only if condition3 is true
+}
+else if(defineCondition4)
+{
+   code here will execute only if condition4 is true
+}
+else
+{
+    code here will execute only if none of the above conditions is true
+}
+
+switch statement     [We use this when we have to make multiple decisions] --> faster
+
+switch(variableToSwitchOver)
+{
+    case a:
+      action;
+      break;
+          case b:
+            action;
+            break;
+                case c:
+                  action;
+                  break;
+                  default:
+                    action
+}
