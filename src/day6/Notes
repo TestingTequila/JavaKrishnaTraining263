@@ -1,0 +1,26 @@
+Loops: everytime we have of group of something and we want to perform some repetitive tasks
+1. while loop
+2. for loop
+3. advanced for loop [for each loop]
+
+
+=> while loop
+define a variable or use an already existing variable;
+while(defineTheConditionOverVariable)
+{
+   code here will execute only if condition is true;
+   I/D operator;
+}
+
+=> for loop
+for(define a variable or use an already existing variable; defineTheConditionOverVariable;I/D operator)
+{
+   code here will execute only if condition is true;
+}
+
+=> advanced for loop [for each loop]
+
+for(dataTypeOfGroup m: NameOfGroupOrCollection)
+{
+  perform action over m;
+}
