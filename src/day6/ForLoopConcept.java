@@ -30,8 +30,6 @@ public class ForLoopConcept
         }
 
         System.out.println("==========4. WAP to print table of 2================");
-
-
         for (int m = 1;m<=10;m++)
         {
             System.out.println(2*m);

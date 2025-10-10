@@ -30,7 +30,6 @@ public class ArraysConcepts {
         System.out.println(students[3]);//John
         System.out.println(students.length);//5
 
-
         //12.34, 34.56, 78.90, 43.67, 99.93, 100.45, 77.78
         double[] temperatures = {12.34, 34.56, 78.90, 43.67, 99.93, 100.45, 77.78};
         System.out.println(temperatures[3]);//43.67
