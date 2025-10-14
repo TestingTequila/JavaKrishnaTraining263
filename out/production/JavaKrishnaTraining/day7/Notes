@@ -1,0 +1,8 @@
+Class:  A Class in a template
+Object: Every copy of template that we make is called its object
+What is relationship between a Class and an Object: A class is a template and every copy of that
+                                                    template is known its Object
+
+Syntax to create object(copy), of a Class(Template)
+
+ClassNameWhoseCopyYouWantToCreate nameOfTheCopy = new ClassNameWhoseCopyYouWantToCreate();

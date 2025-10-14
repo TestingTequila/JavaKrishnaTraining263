@@ -24,3 +24,5 @@ for(dataTypeOfGroup m: NameOfGroupOrCollection)
 {
   perform action over m;
 }
+
+while/for || advanced for loop
