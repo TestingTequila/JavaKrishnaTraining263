@@ -1,5 +1,7 @@
 package day7;
 
+import day8.Automobile;
+
 public class TestTemplate {
     public static void main(String[] args) {
 
