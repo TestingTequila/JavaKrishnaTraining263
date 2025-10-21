@@ -1,26 +1,25 @@
-package day8;
+package day9;
 
 public class MyClass {
-    public int a;
-    public int b;
-    private int c;
 
-    public void addition() {
+    private int c; // global variable
+
+    public void addition(int a, int b) {
         int sum = a + b;
         System.out.println("SUM: " + sum);
     }
 
-    public void subtraction() {
+    public void subtraction(int a, int b) {
         int diff = a - b;
         System.out.println("SUBTRACTION: " + diff);
     }
 
-    public void multiplication() {
+    public void multiplication(int a, int b) {
         int product = a * b;
         System.out.println("MULTIPLICATION: " + product);
     }
 
-    public void division() {
+    protected void division(int a, int b) {
         int divide = a / b;
         System.out.println("DIVISION: " + divide);
     }

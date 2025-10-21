@@ -7,3 +7,14 @@ Methods: The reason, why we create variables, the reason itself is your method
  }
 
 ==========================================
+
+1. Create an Employee Class
+2. Create variables
+   -fName;
+   -lName;
+   -basicSalary;
+   -travelAllowance;
+
+   -> PrintFullNameOfEmployee [fName + lName]
+   -> CalculateSalary [basicSalary+ TravelAllowance]
+
