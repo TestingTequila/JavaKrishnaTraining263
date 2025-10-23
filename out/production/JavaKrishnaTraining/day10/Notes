@@ -1,0 +1,48 @@
+OOPs: Object Oriented Programming
+
+1. Polymorphism [Poly = many, Morph = forms] => Methods in many forms can exist within a class
+    -> Method OVERLOADING
+    -> Method Overriding
+2. Inheritance
+    -> ABSTRACTION
+    -> INTERFACE
+3. Encapsulation
+    -> Data Hiding
+
+A ------------------road-------------------------> B
+
+1st: Driver may not follow the traffic rules
+     a) They may get into some accident
+     b) They might be caught
+     c) They might be fined
+     d) They might be caught and fined
+     e) They reach the destination without any issue
+
+2nd: Driver may follow the traffic rules
+          a) They may not get into some accident
+          b) They might not be caught
+          c) They might not be fined
+          d) They might not be caught and fined
+          e) They will reach their destination
+
+==============================================================================
+When we write the code: There are some coding rules,
+
+you can follow those rules
+  -> Your code will be easy to manage
+  -> Your code will be less vulnerable
+  -> You will have to write less code
+  -> Your code will be reusable
+
+  you may not follow those rules
+     -> Your code will not be easy to manage
+     -> Your code will be vulnerable
+     -> You will have to write more code
+     -> Your code will not be reusable
+     => You will still be able to write the code
+
+
+     accessModifier[public/private/protected] returnType[void/dataTypes] methodName(can/t parameters)
+      {
+         action over variables of the class;
+      }
