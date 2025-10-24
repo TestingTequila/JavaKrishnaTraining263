@@ -1,0 +1,6 @@
+Inheritance:
+
+Whenever a parent-child relationship exists b/w classes, they can be top casted
+that means, child class object can be referred with parent class reference variable
+
+  ParentClass refVar = new ChildClass();
